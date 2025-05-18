@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Base backup directory
-BASE_BACKUP_DIR="$HOME/config_backup"
+BASE_BACKUP_DIR="$HOME/.config_backup"
 
 # Determine backup directory
 if [ -d "$BASE_BACKUP_DIR" ]; then

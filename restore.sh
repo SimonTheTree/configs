@@ -2,7 +2,7 @@
 
 # File that stores the random ID (if any)
 RAND_FILE="$HOME/.config_backup_rand_num"
-BASE_BACKUP_DIR="$HOME/config_backup"
+BASE_BACKUP_DIR="$HOME/.config_backup"
 BACKUP_DIR=""
 
 # Determine backup directory
